@@ -1,4 +1,4 @@
-From ubuntu:trusty
+FROM ubuntu:trusty
 LABEL maintainer "Elliott Ye"
 
 # Set noninteractive mode for apt-get

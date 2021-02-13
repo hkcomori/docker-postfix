@@ -1,5 +1,5 @@
 From ubuntu:trusty
-MAINTAINER Elliott Ye
+LABEL maintainer "Elliott Ye"
 
 # Set noninteractive mode for apt-get
 ENV DEBIAN_FRONTEND noninteractive

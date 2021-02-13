@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-LABEL maintainer "Elliott Ye"
+LABEL maintainer "hkcomori"
 
 # Set noninteractive mode for apt-get
 ENV DEBIAN_FRONTEND noninteractive
